@@ -21,7 +21,7 @@ Una aplicación de grabación de reclists (lista de grabaciones) al estilo de UT
 
 ## Descarga
 
-See the [releases page](https://github.com/sdercolin/recstar/releases) for the latest version.
+Consulta la [página de lanzamientos](https://github.com/sdercolin/recstar/releases) para ver la versión más reciente.
 
 ### Escritorio
 
@@ -36,18 +36,18 @@ Para otros tipos de Linux os, por favor intenta compilarlo por tu cuenta.
 
 #### APK
 
-Attached in the release page.
+Adjunto en la página de lanzamientos.
 
 #### Play Store
 
-Search `RecStar` in the Play Store, or use the following link:
+Busca `RecStar` en la Play Store, o usa el siguiente enlace:
 https://play.google.com/store/apps/details?id=com.sdercolin.recstar
 
 ### iOS
 
-Search `RecStar` in the App Store.
+Busca `RecStar` en la App Store.
 
-## Getting started
+## Primeros pasos
 
 1. Prepare UTAU reclists that fit your needs. The reclists used in the screenshots are
    from [巽式連続音録音リスト](https://tatsu3.hateblo.jp/entry/ar426004).
