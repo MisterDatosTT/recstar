@@ -8,7 +8,7 @@ Una aplicación de grabación de reclists (lista de grabaciones) al estilo de UT
 
 ## Features
 
-- Manage recording sessions with individual settings (reclist, guide BGM, etc.)
+- Gestiona sesiones de grabación con configuraciones individuales (lista de grabación, música de fondo guía, etc.)
 - Manage reclists with corresponding comment files
 - Continuous recording with a guide BGM
 - Automation actions (e.g. auto listen back after recording)
