@@ -6,31 +6,31 @@ Una aplicación de grabación de reclists (lista de grabaciones) al estilo de UT
 
 ![platforms.png](readme_images/platforms.png)
 
-## Features
+## Funciones
 
-- Gestiona sesiones de grabación con configuraciones individuales (lista de grabación, música de fondo guía, etc.)
-- Manage reclists with corresponding comment files
-- Continuous recording with a guide BGM
-- Automation actions (e.g. auto listen back after recording)
-- Configurable sample rate and bit depth
-- (only on Desktop) Selectable audio input/output devices
-- Auto encoding detection when loading text files
-- Adaptive UI layout for landscape and portrait modes
-- Light and dark themes
-- Multi-language support (English, Japanese, Chinese, Korean)
+- Gestiona sesiones de grabación con configuraciones individuales (lista de grabación, música de fondo para guía de grabación, etc.)
+- Gestiona listas de grabación con sus archivos de comentarios correspondientes.
+- Grabación continua con música de fondo para guía.
+- Acciones de automatización (por ejemplo, reproducción automática después de grabar).
+- Tasa de muestreo (sample rate) y profundidad de bits (bit rate) configurables.
+- (Solo en la version de Escritorio) Dispositivos de entrada/salida de audio seleccionables.
+- Detección automática de codificación (encode) al cargar archivos de texto.
+- Diseño de interfaz de usuario adaptable para modos horizontal y vertical.
+- Temas "claro" y "oscuro".
+- Soporte multilenguaje (inglés, japonés, chino, coreano, español).
 
-## Download
+## Descarga
 
 See the [releases page](https://github.com/sdercolin/recstar/releases) for the latest version.
 
-### Desktop
+### Escritorio
 
 - Windows: `~win64.zip`
 - macOS (Intel): `~mac-x64.dmg`
 - macOS (Apple Silicon): `~mac-arm64.dmg`
 - Ubuntu: `~amd64.deb`
 
-For other types of Linux os, please try building it by yourself.
+Para otros tipos de Linux os, por favor intenta compilarlo por tu cuenta.
 
 ### Android
 
