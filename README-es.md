@@ -1,8 +1,8 @@
 # RecStar
 
-Select Language: [English](README.md) | [简体中文](README-zhCN.md) | [日本語](README-ja.md) | [한국어](README-ko.md) | [Русский](README-ru.md) | [Español](README-es.md)
+Selecciona un idioma: [English](README.md) | [简体中文](README-zhCN.md) | [日本語](README-ja.md) | [한국어](README-ko.md) | [Русский](README-ru.md) | [Español](README-es.md)
 
-An UTAU style reclist (recording list) recorder application for Desktop/iOS/Android.
+Una aplicación de grabación de reclists (lista de grabaciones) al estilo de UTAU para Escritorio/iOS/Android.
 
 ![platforms.png](readme_images/platforms.png)
 
