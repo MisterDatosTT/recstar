@@ -49,8 +49,7 @@ Busca `RecStar` en la App Store.
 
 ## Primeros pasos
 
-1. Prepare UTAU reclists that fit your needs. The reclists used in the screenshots are
-   from [巽式連続音録音リスト](https://tatsu3.hateblo.jp/entry/ar426004).
+1. Prepare la lista de grabación (de UTAU) que se adapte a sus necesidades, Las listas de grabación utilizadas en las capturas de pantalla son de [巽式連続音録音リスト](https://tatsu3.hateblo.jp/entry/ar426004)(Tatsumi).
 2. Click the "+" button to create a new session.
 3. Click the "..." button to import a reclist. If you need to import an OREMO-style comment file, please import it
    together with the reclist (a dialog will pop up to ask you to select the comment file).
