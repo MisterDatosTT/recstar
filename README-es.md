@@ -10,7 +10,7 @@ Una aplicación de grabación de reclists (lista de grabaciones) al estilo de UT
 
 - Gestiona sesiones de grabación con configuraciones individuales (lista de grabación, música de fondo para guía de grabación, etc.)
 - Gestiona listas de grabación con sus archivos de comentarios correspondientes.
-- Grabación continua con música de fondo para guía.
+- Grabación continua con música de fondo como guía.
 - Acciones de automatización (por ejemplo, reproducción automática después de grabar).
 - Tasa de muestreo (sample rate) y profundidad de bits (bit rate) configurables.
 - (Solo en la version de Escritorio) Dispositivos de entrada/salida de audio seleccionables.
@@ -49,28 +49,22 @@ Busca `RecStar` en la App Store.
 
 ## Primeros pasos
 
-1. Prepare la lista de grabación (de UTAU) que se adapte a sus necesidades, Las listas de grabación utilizadas en las capturas de pantalla son de [巽式連続音録音リスト](https://tatsu3.hateblo.jp/entry/ar426004)(Tatsumi).
-2. Click the "+" button to create a new session.
-3. Click the "..." button to import a reclist. If you need to import an OREMO-style comment file, please import it
-   together with the reclist (a dialog will pop up to ask you to select the comment file).
-4. Click the imported item, and the session will be created.
-5. (Optional) If you want to use a guide BGM, click the music note button to import and select a BGM file. An
-   OREMO-style BGM config file can be imported as well for continuous recording and trimming.
-   Note: On Desktop, the config file should be in the same directory as the BGM file, and named
-   as `<same_name_with_the_guide_bgm_file>.txt`, to be automatically detected.
-6. Click the record button to start recording.
-7. Click the audio graph to listen back to the recorded files.
-8. After recording, click the "..." button and select "Export" or "Open Directory" to access the recorded files.
+1. Prepara la lista de grabación (de UTAU) que se adapte a tus necesidades, Las listas de grabación utilizadas en las capturas de pantalla son de [巽式連続音録音リスト](https://tatsu3.hateblo.jp/entry/ar426004)(Tatsumi).
+2. Haz clic en el botón "+" para crear una nueva sesión.
+3. Haz clic en el botón "..." para importar una lista de grabación. Si necesitas importar un archivo de comentarios estilo OREMO, impórtalo junto con la lista de grabación (aparecerá un diálogo para pedirte que selecciones el archivo de comentarios).
+4. Haz clic en el elemento importado y se creará la sesión.
+5. (Opcional) Si quieres usar música de fondo como guía, haz clic en el botón de la nota musical para importar y seleccionar un archivo de música de fondo. También se puede importar un archivo de configuración de música de fondo estilo OREMO para grabación continua y recorte.
+   Nota: En Escritorio, el archivo de configuración debe estar en el mismo directorio que el archivo de música de fondo, y nombrarse como <mismo_nombre_que_el_archivo_de_música_de_fondo>.txt, para que se detecte automáticamente.
+6. Haz clic en el botón de grabar para comenzar la grabación.
+7. Haz clic en el gráfico del audio para escuchar los archivos grabados.
+8. Después de grabar, haz clic en el botón "..." y selecciona "Exportar" o "Abrir directorio" para acceder a los archivos grabados.
 
-## Feedback
+## Retroalimentación.
 
-If you have any feedback, please join our [Discord Server](https://discord.gg/TyEcQ6P73y) and find the #recstar channel,
-or open an issue in this repository.
+Si tienes algún comentario, únete a nuestro [Servidor de Discord](https://discord.gg/TyEcQ6P73y) y busca el canal #recstar, o abre un "issue" en este repositorio.
+Por favor, proporciona la información que te aparece al ir a "Settings" -> "About" -> "Copy Device Info" junto a capturas de pantalla relevantes al reportar problemas.
 
-Please provide the info from "Settings" -> "About" -> "Copy Device Info" and relevant screenshots when reporting issues.
-
-If you are using the desktop version, please also provide the log files located in the `logs` directory under the app
-directory (you can open it with window menu "Help" -> "Open App Directory" in the app).
+Si estás usando la versión de escritorio, por favor proporciona también los archivos de registro ubicados en el directorio `logs` dentro del directorio de la aplicación (puedes abrirlo con el menú de ventana)("Help" -> "Open App Directory" en la app).
 
 ## Getting started with development
 
