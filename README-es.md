@@ -73,12 +73,11 @@ RecStar está construido en [Compose Multiplatform](https://github.com/JetBrains
 Consulta el [README del modelo de proyecto](README-compose.md) para obtener instrucciones sobre cómo empezar.
 
 <details>
-<summary>Other recommended settings</summary>
+<summary>Otras configuraciones recomendadas.</summary>
 
-1. Install the `Kotlin KDoc Formatter` plugin, and use the following settings:
+1. Instala el plugin `Kotlin KDoc Formatter`, y utiliza las siguientes configuraciones:
    [![KDoc Formatter settings](readme_images/kdoc_settings.png)](readme_images/kdoc_settings.png)
-2. Run `./gradlew addKtlintFormatGitPreCommitHook` once to add a pre-commit hook that will automatically format your
-   code before committing.
+2. Ejecuta `./gradlew addKtlintFormatGitPreCommitHook` una vez para agregar un "pre-commit hook" que formateará automáticamente tu código antes de confirmar los cambios.
 3. If in string definition files (e.g. [StringsEnglish.kt](shared/src/commonMain/kotlin/ui/string/StringEnglish.kt)), if
    the formatter of your Android Studio is always turning the wildcard imports into single imports, adjust the settings
    to allow wildcard imports on package `ui.string`.
