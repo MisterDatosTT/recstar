@@ -66,11 +66,11 @@ Por favor, proporciona la información que te aparece al ir a "Settings" -> "Abo
 
 Si estás usando la versión de escritorio, por favor proporciona también los archivos de registro ubicados en el directorio `logs` dentro del directorio de la aplicación (puedes abrirlo con el menú de ventana)("Help" -> "Open App Directory" en la app).
 
-## Getting started with development
+## Comenzando con el desarrollo.
 
-RecStar is built with [Compose Multiplatform](https://github.com/JetBrains/compose-jb).
+RecStar está construido en [Compose Multiplatform](https://github.com/JetBrains/compose-jb).
 
-See the [README of the project template](README-compose.md) for instructions on how to get started.
+Consulta el [README del modelo de proyecto](README-compose.md) para obtener instrucciones sobre cómo empezar.
 
 <details>
 <summary>Other recommended settings</summary>
