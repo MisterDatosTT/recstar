@@ -1,6 +1,6 @@
 # RecStar
 
-Выберите язык: [English](README.md) | [简体中文](README-zhCN.md) | [日本語](README-ja.md) | [한국어](README-ko.md) | [Русский](README-ru.md)
+Выберите язык: [English](README.md) | [简体中文](README-zhCN.md) | [日本語](README-ja.md) | [한국어](README-ko.md) | [Русский](README-ru.md) | [Español](README-es.md)
 
 Приложение для записи реклиста в стиле UTAU для Desktop/iOS/Android.
 
